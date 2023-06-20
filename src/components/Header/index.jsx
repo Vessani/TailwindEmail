@@ -1,7 +1,6 @@
-import Avatar from "./avatar"
+import Avatar from "./Avatar"
 import Logo from "./logo"
-import SearchForm from "./searchForm"
-
+import SearchForm from "./SearchForm"
 
 const Header = () => (
   <header className="

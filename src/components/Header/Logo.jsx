@@ -7,4 +7,4 @@ const Logo = () => (
   </span>
 )
 
-export default Logo 
+export default Logo
